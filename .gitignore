@@ -1,0 +1,40 @@
+# Dependências do Node
+/node_modules/
+
+# Build do Vite
+/dist/
+
+# Arquivos de configuração do editor
+.vscode/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários criados pelo editor
+*.swp
+*.swo
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de cache de build
+/.vite/
+
+# Arquivos de cache do npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de configuração do IDE (ex: JetBrains)
+.idea/
+
+# Arquivos de configuração do Visual Studio Code
+.vscode/
+
+# Arquivos de configuração do WebStorm
+/.webstorm/
+
+# Arquivos de lock (caso deseje evitar que o lock seja versionado)
+# package-lock.json
+# yarn.lock
