@@ -2,6 +2,10 @@
 
 Este projeto é uma aplicação de listagem de produtos com funcionalidades como **scroll infinito**, **filtro de preço**, **busca por nome**, **PWA (Progressive Web App)** e **testes unitários** implementados. Foi desenvolvido utilizando **React.js**, **TypeScript**, **Vite**, **Tailwind CSS** e **Vitest**.
 
+# Link do deploy no github pages
+
+https://doubty.github.io/code-test-esapiens/
+
 ## Funcionalidades
 
 - **Exibição de produtos**: A lista de produtos é exibida com suas imagens, nome, descrição e preço.
